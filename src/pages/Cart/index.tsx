@@ -2,7 +2,7 @@ import React from 'react';
 import {
   MdDelete,
   MdAddCircleOutline,
-  MdRemoveCircleOutline,
+  MdRemoveCircleOutline
 } from 'react-icons/md';
 
 // import { useCart } from '../../hooks/useCart';
